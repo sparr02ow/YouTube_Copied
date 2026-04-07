@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    font-family: Roboto, Arial;
+}
+main{
+    min-height: 100vh;
+}
+p{
+    margin: 0;
+}
+div{
+    font-family: Roboto, Arial;
+}
